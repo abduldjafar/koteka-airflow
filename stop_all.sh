@@ -1,0 +1,1 @@
+kill -9 $(ps -ax | grep airflow | awk '{ print $1 }')
