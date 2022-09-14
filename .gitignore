@@ -4,3 +4,4 @@ airflow_home
 web.log
 scheduler.log
 nohup.out
+aws_keys
